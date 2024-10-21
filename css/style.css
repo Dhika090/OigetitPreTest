@@ -9,9 +9,6 @@ body {
     border-radius: 15px;
 }
 
-/* .sentimen{
-    border-radius: 17px;
-} */
 
 /* Container untuk Trend Topics */
 .trend-topics-container {
@@ -199,20 +196,20 @@ table tbody tr:last-child td:last-child {
 }
 
 #sentimentChart {
-    width: 1400px;
-    height: 300px;
+    width: 100%;
     margin: 0 auto;
+    background-color: white;
 }
 
 .reputation {
     background-color: white;
     margin-left: auto;
-    padding-left: 5.5pc;
+    padding-left: 2.5pc;
     border-radius: 15px;
 }
 
 .trustworthy {
     background-color: white;
-    padding-right: 5.5pc;
+    padding-right: 2.5pc;
     border-radius: 15px;
 }
